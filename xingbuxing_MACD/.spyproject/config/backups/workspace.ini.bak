@@ -1,0 +1,10 @@
+[workspace]
+restore_data_on_startup = True
+save_data_on_exit = True
+save_history = True
+save_non_project_files = False
+
+[main]
+version = 0.2.0
+recent_files = ['1_计算一只股票的MACD.py', '2_统计一只股票的金叉死叉.py', '3_股票择时回测代码_不外传.py', 'config.py', '4.1_从日线数据中统计所有股票表现.py']
+
